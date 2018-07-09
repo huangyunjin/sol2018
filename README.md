@@ -10,4 +10,9 @@
 ### [solidity常见问题](http://solidity.readthedocs.io/en/develop/frequently-asked-questions.html)
 
 
-### [solidity常见问题](https://paper.seebug.org/631/)
+### [solidity检测](https://paper.seebug.org/631/)
+
+
+### [cns](http://blog.hubwiz.com/2018/03/21/smart-contract-design-pattern/）
+
+### [关于升级](https://guide.blockchain.z.com/en/docs/problem/versionup/solution/）
