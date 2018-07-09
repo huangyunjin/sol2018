@@ -8,3 +8,6 @@
 
 
 ### [solidity常见问题](http://solidity.readthedocs.io/en/develop/frequently-asked-questions.html)
+
+
+### [solidity常见问题](https://paper.seebug.org/631/)
