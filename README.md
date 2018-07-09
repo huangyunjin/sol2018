@@ -13,6 +13,6 @@
 ### [solidity检测](https://paper.seebug.org/631/)
 
 
-### [cns](http://blog.hubwiz.com/2018/03/21/smart-contract-design-pattern/）
+### [cns] (http://blog.hubwiz.com/2018/03/21/smart-contract-design-pattern/）
 
-### [关于升级](https://guide.blockchain.z.com/en/docs/problem/versionup/solution/）
+### [关于升级] (https://guide.blockchain.z.com/en/docs/problem/versionup/solution/）
